@@ -69,8 +69,8 @@ The Smart Transport System is a comprehensive digital solution designed to strea
 
 #### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/neotropolis-transport-system.git
-cd neotropolis-transport-system
+git clone https://github.com/yourusername/smart-transport-system.git
+cd smart-transport-system
 ```
 
 #### 2. **Frontend Setup**
